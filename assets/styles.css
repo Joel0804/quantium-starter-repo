@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    color: #E91E63;
+    text-shadow: 1px 1px 2px #aaa;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+.RadioItems label {
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+#sales-line-chart {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+    padding: 15px;
+    background-color: white;
+}
