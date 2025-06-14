@@ -39,3 +39,14 @@ The dashboard was implemented in `dash_app.py`.
 
 ```bash
 python dash_app.py
+
+
+✅ Task 5: Dash App Testing
+In Task 5, automated tests were written for the Dash app using pytest along with the dash_duo testing utility provided by dash[testing].
+
+✅ Test Cases Included:
+Header Test: Checks if the app header (<h1>) displays the correct title.
+
+Graph Test: Ensures that the sales line chart is rendered correctly on the page.
+
+Dropdown Test: Verifies the presence of the region picker dropdown in the app.
