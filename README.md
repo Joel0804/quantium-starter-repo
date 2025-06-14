@@ -1,12 +1,6 @@
 # Quantium starter repo
 This repo contains everything you need to get started on the program! Good luck!
 
-# Quantium Starter Repo
-
-This repo contains everything you need to get started on the program! Good luck!
-
----
-
 ## Task 2: Data Cleaning 🧹
 
 In this task, the raw sales data was cleaned to focus only on `Pink Morsels`. The steps included:
